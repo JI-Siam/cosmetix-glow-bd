@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0EEFF"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+<linearGradient id="bottle" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#6C3FC5"/></linearGradient></defs>
+<rect width="500" height="500" fill="url(#bg)"/>
+<rect x="190" y="140" width="120" height="220" rx="14" fill="url(#bottle)"/>
+<rect x="210" y="100" width="80" height="50" rx="8" fill="#2F3FAE"/>
+<rect x="225" y="70" width="50" height="40" rx="6" fill="#17152A"/>
+<rect x="205" y="200" width="90" height="90" rx="6" fill="#F7F8FC" opacity="0.85"/>
+<text x="250" y="235" font-family="Arial" font-size="13" fill="#17152A" text-anchor="middle" font-weight="bold">SNAIL</text>
+<text x="250" y="255" font-family="Arial" font-size="13" fill="#17152A" text-anchor="middle" font-weight="bold">MUCIN</text>
+<text x="250" y="278" font-family="Arial" font-size="10" fill="#4169E1" text-anchor="middle">ESSENCE</text>
+<ellipse cx="250" cy="365" rx="60" ry="10" fill="#17152A" opacity="0.15"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0EEFF"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect width="500" height="500" fill="url(#bg)"/>
+<circle cx="250" cy="250" r="110" fill="#17152A"/>
+<circle cx="250" cy="250" r="90" fill="#F7F8FC"/>
+<circle cx="250" cy="250" r="60" fill="#C4B5FD"/>
+<text x="250" y="256" font-family="Arial" font-size="12" fill="#17152A" text-anchor="middle" font-weight="bold">CUSHION</text>
+</svg>
