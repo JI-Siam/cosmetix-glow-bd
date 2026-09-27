@@ -16,8 +16,9 @@ const scriptFont = Alex_Brush({
 });
 
 export const metadata: Metadata = {
-  title: "Cometix Glow Bd | Authentic Korean Cosmetics in Bangladesh",
-  description: "Shop 100% authentic Korean skincare, makeup, and haircare — sourced directly from Korea and delivered across Bangladesh.",
+  title: "Cosmetix Glow Bd | Authentic Korean Cosmetics in Bangladesh",
+  description:
+    "Shop 100% authentic Korean skincare, makeup, and haircare — sourced directly from Korea and delivered across Bangladesh.",
 };
 
 export default function RootLayout({
